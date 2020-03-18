@@ -1,95 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0c3c880-5f03-46fa-b638-8fc86e28e2bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/promo-codes_subscription_mobile_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/FontsFree-Net-SF-Pro-Rounded-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/FontsFree-Net-SF-Pro-Rounded-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Black.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Black.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Black.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-BlackItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-BlackItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-BlackItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-BoldItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-BoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-BoldItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Heavy.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Heavy.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Heavy.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Heavy.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-HeavyItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-HeavyItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-HeavyItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-HeavyItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-LightItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-LightItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-LightItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Medium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-MediumItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-MediumItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-MediumItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-RegularItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-RegularItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-RegularItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-RegularItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Semibold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Semibold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Semibold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Semibold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-SemiboldItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-SemiboldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-SemiboldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-SemiboldItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Thin.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Thin.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-ThinItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-ThinItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-ThinItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Ultralight.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Ultralight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Ultralight.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Ultralight.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-UltralightItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-UltralightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-UltralightItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-UltralightItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/crumbs-arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/input-edit.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/subscription-form-input-card-type.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/subscription-form-input-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+    <list default="true" id="c0c3c880-5f03-46fa-b638-8fc86e28e2bc" name="Default Changelist" comment="18.02.2020 19.31">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -102,20 +16,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="263">
+              <caret line="39" column="10" lean-forward="true" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="186" column="24" selection-start-line="186" selection-start-column="24" selection-end-line="186" selection-end-column="24" />
+            <state relative-caret-position="399">
+              <caret line="225" column="26" selection-start-line="225" selection-start-column="26" selection-end-line="225" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -124,8 +47,21 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>.subscribe-block-radio-wrapp</find>
+      <find>subscription-wrapp</find>
+      <find>subscribe-block-radio-wrapp</find>
       <find>subscription-form</find>
+      <find>subscribe</find>
+      <find>.unsubscription-wrapp</find>
+      <find>.unsubscription-wrapp .descr</find>
+      <find>subscription-step-2</find>
+      <find>management-item</find>
+      <find>.management-item</find>
+      <find>Описаться</find>
     </findStrings>
+    <replaceStrings>
+      <replace>unsubscribe</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -133,8 +69,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -171,6 +108,21 @@
               <item name="promo-codes_subscription_mobile_2" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="promo-codes_subscription_mobile_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="promo-codes_subscription_mobile_2" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="promo-codes_subscription_mobile_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="promo-codes_subscription_mobile_2" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="promo-codes_subscription_mobile_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="promo-codes_subscription_mobile_2" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -181,6 +133,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../slivki.by/slivki_sushi" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -206,12 +164,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584545436512</updated>
-      <workItem from="1584545437610" duration="684000" />
+      <workItem from="1584545437610" duration="2774000" />
     </task>
+    <task id="LOCAL-00001" summary="18.02.2020 18.42">
+      <created>1584546163280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584546163280</updated>
+    </task>
+    <task id="LOCAL-00002" summary="18.02.2020 19.05">
+      <created>1584547538725</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584547538725</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="684000" />
+    <option name="totallyTimeSpent" value="2774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -239,6 +212,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="18.02.2020 18.42" />
+    <MESSAGE value="18.02.2020 19.05" />
+    <option name="LAST_COMMIT_MESSAGE" value="18.02.2020 19.05" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../promo-codes_subscription_desctop_2/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -249,22 +227,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../promo-codes_subscription_desctop_2/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2433">
-          <caret line="257" column="1" lean-forward="true" selection-start-line="196" selection-end-line="257" selection-end-column="1" />
+        <state relative-caret-position="201">
+          <caret line="59" selection-start-line="59" selection-end-line="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="238">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="186" column="24" selection-start-line="186" selection-start-column="24" selection-end-line="186" selection-end-column="24" />
+        <state relative-caret-position="399">
+          <caret line="225" column="26" selection-start-line="225" selection-start-column="26" selection-end-line="225" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="39" column="10" lean-forward="true" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
         </state>
       </provider>
     </entry>
