@@ -196,6 +196,8 @@ input:focus:-ms-input-placeholder {
     background-image: url(../img/point.svg);
     background-repeat: no-repeat;
     background-position: center;
+    -webkit-background-size: 0.966vw;
+    background-size: 0.966vw;
 }
 
 .unsubscribe {
